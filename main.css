@@ -1,0 +1,38 @@
+body{
+    background: lavender;
+    
+    
+}
+
+.back{
+    position: absolute;
+    left: 35%;
+    top: 15%;
+    background-image: url(images/qr-code.png);
+    height: 200px;
+    width: 200px;
+    border: 10px solid white;
+    border-bottom: 150px solid white;
+    border-radius: 1em;
+}
+
+
+
+
+.text-1{
+    padding-top: 220px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+     
+    
+}
+
+.text-2{
+    font-size: 11px;
+}
+
+.attribute{
+    font-size: 9px;
+    text-align: center;
+}
